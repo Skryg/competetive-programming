@@ -1,0 +1,6 @@
+28
+0: LOAD . 50
+1: STORE . 0
+2: ADD @ 50
+3: STORE . 1
+

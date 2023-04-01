@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "complex": "cpp",
+        "memory_resource": "cpp",
+        "functional": "cpp",
+        "fstream": "cpp",
+        "numeric": "cpp"
+    }
+}

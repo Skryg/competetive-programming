@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "chrono": "c",
+        "complex": "c",
+        "cmath": "c",
+        "random": "c",
+        "future": "c",
+        "istream": "c",
+        "limits": "c",
+        "memory": "c",
+        "numeric": "c",
+        "ostream": "c",
+        "streambuf": "c",
+        "regex": "c",
+        "tuple": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c"
+    }
+}

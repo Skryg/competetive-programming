@@ -1,0 +1,17 @@
+1
+15 INT QUEUE
+enqueue 1
+enqueue 2
+enqueue 3
+enqueue 1
+enqueue 2
+min
+dequeue
+min
+dequeue
+min
+dequeue
+min
+dequeue
+min
+dequeue
