@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "chrono": "cpp",
+        "optional": "cpp",
+        "iosfwd": "cpp",
+        "limits": "cpp",
+        "functional": "cpp",
+        "variant": "cpp",
+        "iostream": "cpp"
+    }
+}
